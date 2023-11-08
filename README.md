@@ -2,7 +2,6 @@
 
 ## Curso ICI 2141-1
 
-
 - Carlos Aguirre Soto (20678207-2)
 
 - Javier Donetch Santis (20806271-9)
@@ -16,3 +15,9 @@
 - Eduardo Meneses Llanten (20320748-4)
 
 - Matias Romero Galvez (21319163-2)
+
+
+
+## Profesor
+
+- Javier Esteban Peña Reyes
